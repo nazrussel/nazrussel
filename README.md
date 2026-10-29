@@ -14,11 +14,7 @@
 </p>
 
 ## 🚀 About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
-
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
-
-When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating content, hiking, mentoring others, etc.]. I love the "aha!" moment when data reveals something new and useful.
+Hi, I'm a data analyst—but not the kind who hides behind spreadsheets. I help businesses cut through the noise and actually understand their data. Think of me as a translator: I take complex, messy information and turn it into clear stories and insights you can use. I'm big on dashboards that people actually open, automation that gives teams their time back, and models that help you plan ahead instead of just reacting. Away from work, I'm all about solving logic puzzles. And yes, I still get a kick out of that "aha!" moment when data shows us something we never saw before.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
