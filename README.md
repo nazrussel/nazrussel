@@ -16,7 +16,7 @@
 Hi, I'm a data analyst—but not the kind who hides behind spreadsheets. I help businesses cut through the noise and actually understand their data. Think of me as a translator: I take complex, messy information and turn it into clear stories and insights you can use. I'm big on dashboards that people actually open, automation that gives teams their time back, and models that help you plan ahead instead of just reacting. Away from work, I'm all about solving logic puzzles. And yes, I still get a kick out of that "aha!" moment when data shows us something we never saw before.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
+<!--### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)-->
       
 ## 🔭 What I'm Currently Working On 
 
