@@ -23,6 +23,11 @@ Hi, I'm a data analyst—but not the kind who hides behind spreadsheets. I help 
 - **DIDB Project_1:** Organizational Data Culture and Processes  
 - **DIDB Project_2:** Sourcing and Evaluating Data for High-Impact Problem Solving
 - **DIDB Project_3:** Driving Business Value through Data Validation
+- **DIDB Project_4:** Measuring and Improving Your Data Project's Impact
+- **DIBD Porject_5:** Enabling Insights with User-Centered Dashboard Design
+- **DIBD Project_6:** Tailoring Data-Driven Insights for Strategic Decision Making
+- **DIBD Project_7:** Catalyzing Enduring Change - Embedding a Data Culture
+- **DIBD Project_8:** Digital Transformation - Amplifying Impact and Planning for Future Growth	120
 
 ## 🌱 Currently Learning 
 
