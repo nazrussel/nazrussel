@@ -31,8 +31,8 @@ Hi, I'm a data analyst—but not the kind who hides behind spreadsheets. I help 
 
 ## 🌱 Currently Learning 
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+- Advanced machine learning techniques in Scikit-learn
+- Cloud data warehousing with Google BigQuery
 
 ## 🛠️ Technical Skillset
 
