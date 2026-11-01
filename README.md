@@ -18,11 +18,11 @@ Hi, I'm a data analyst—but not the kind who hides behind spreadsheets. I help 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 <!--### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)-->
       
-## 🔭 What I'm Currently Working On 
+## 🔭 Level 3 Data Insights for Business Decision Projects 
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+- **DIDB Project_1:** Organizational Data Culture and Processes  
+- **DIDB Project_2:** Sourcing and Evaluating Data for High-Impact Problem Solving
+- **DIDB Project_3:** Driving Business Value through Data Validation
 
 ## 🌱 Currently Learning 
 
